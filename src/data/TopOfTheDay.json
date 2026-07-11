@@ -1,0 +1,92 @@
+[
+    {
+        "id":1,
+        "Name":"Over Sized",
+        "Price":349,
+        "Mrp":499,
+        "Offer":"Attack On Titan",
+        "Type":"Over Sized",
+        "Image":"./../src/assets/mens_1.webp",
+        "img2":"./../src/assets/mens_1_sub_1.webp",
+        "img3":"./../src/assets/mens_1_sub_2.webp"
+    },
+    {
+        "id":2,
+        "Name":"Over Sized",
+        "Price":349,
+        "Mrp":499,
+        "Offer":"Attack On Titan",
+        "Type":"Over Sized",
+        "Image":"./../src/assets/mens_2.webp",
+        "img2":"./../src/assets/mens_2_sub_2.webp",
+        "img3":"./../src/assets/mens_2_sub_1.webp"
+    },
+    {
+        "id":3,
+        "Name":"Over Sized",
+       "Price":349,
+        "Mrp":499,
+        "Offer":"Attack On Titan",
+         "Type":"Over Sized",
+        "Image":"./../src/assets/womens_1.webp",
+        "img2":"./../src/assets/womens_1_sub_1.webp",
+        "img3":"./../src/assets/womens_1_sub_2.webp"
+    }
+    ,
+    {
+        "id":4,
+        "Name":"Over Sized",
+        "Price":349,
+        "Mrp":499,
+        "Offer":"Attack On Titan",
+        "Type":"Over Sized",
+        "Image":"./../src/assets/womens_2.webp",
+        "img2":"./../src/assets/womens_2_sub_1.webp",
+        "img3":"./../src/assets/womens_2_sub_2.webp"
+    },
+    {
+        "id":5,
+        "Name":"Over Sized",
+        "Price":349,
+        "Mrp":499,
+        "Offer":"Demon Slayer",
+        "Type":"Over Sized",
+        "Image":"./../src/assets/mens_1.webp",
+        "img2":"./../src/assets/mens_1_sub_1.webp",
+        "img3":"./../src/assets/mens_1_sub_2.webp"
+    },
+    {
+        "id":6,
+        "Name":"Over Sized",
+        "Price":349,
+        "Mrp":499,
+        "Offer":"Demon Slayer",
+        "Type":"Over Sized",
+        "Image":"./../src/assets/mens_2.webp",
+        "img2":"./../src/assets/mens_2_sub_2.webp",
+        "img3":"./../src/assets/mens_2_sub_1.webp"
+    },
+    {
+        "id":7,
+        "Name":"Over Sized",
+       "Price":349,
+        "Mrp":499,
+        "Offer":"Demon Slayer",
+        "Type":"Over Sized",
+        "Image":"./../src/assets/womens_1.webp",
+        "img2":"./../src/assets/womens_1_sub_1.webp",
+        "img3":"./../src/assets/womens_1_sub_2.webp"
+    }
+    ,
+    {
+        "id":8,
+        "Name":"Over Sized",
+        "Price":349,
+        "Mrp":499,
+        "Offer":"Demon Slayer",
+      "Type":"Over Sized",
+        "Image":"./../src/assets/womens_2.webp",
+        "img2":"./../src/assets/womens_2_sub_1.webp",
+        "img3":"./../src/assets/womens_2_sub_2.webp"
+    }
+]

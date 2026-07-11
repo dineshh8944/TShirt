@@ -1,0 +1,178 @@
+[
+    {
+        "id":9,
+        "anime":"attackOnTitan",
+       "Image":"./../src/assets/earan-eager-1.png",
+        "Price":349,
+        "Mrp":499,
+        "Offer":"Attack On Titan",
+        "Type":"Over Sized",
+        "img2":"./../src/assets/mens_1_sub_1.webp",
+        "img3":"./../src/assets/mens_1_sub_2.webp"
+    },
+    {
+        "id":10,
+        "anime":"attackOnTitan",
+       "Image":"./../src/assets/earan-eager-1.png",
+        "Price":349,
+        "Mrp":499,
+        "Offer":"Attack On Titan",
+        "Type":"Over Sized",
+        "img2":"./../src/assets/mens_1_sub_1.webp",
+        "img3":"./../src/assets/mens_1_sub_2.webp"
+    },
+    {
+        "id":11,
+        "anime":"attackOnTitan",
+       "Image":"./../src/assets/earan-eager-1.png",
+        "Price":349,
+        "Mrp":499,
+        "Offer":"Attack On Titan",
+        "Type":"Over Sized",
+        "img2":"./../src/assets/mens_1_sub_1.webp",
+        "img3":"./../src/assets/mens_1_sub_2.webp"
+    },
+    {
+        "id":12,
+        "anime":"attackOnTitan",
+       "Image":"./../src/assets/earan-eager-1.png",
+        "Price":349,
+        "Mrp":499,
+        "Offer":"Attack On Titan",
+        "Type":"Over Sized",
+        "img2":"./../src/assets/mens_1_sub_1.webp",
+        "img3":"./../src/assets/mens_1_sub_2.webp"
+    },
+     {
+        "id":13,
+        "anime":"attackOnTitan",
+       "Image":"./../src/assets/earan-eager-1.png",
+        "Price":349,
+        "Mrp":499,
+        "Offer":"Attack On Titan",
+        "Type":"Over Sized",
+        "img2":"./../src/assets/mens_1_sub_1.webp",
+        "img3":"./../src/assets/mens_1_sub_2.webp"
+    },
+    {
+        "id":14,
+        "anime":"attackOnTitan",
+       "Image":"./../src/assets/earan-eager-1.png",
+        "Price":349,
+        "Mrp":499,
+        "Offer":"Attack On Titan",
+        "Type":"Over Sized",
+        "img2":"./../src/assets/mens_1_sub_1.webp",
+        "img3":"./../src/assets/mens_1_sub_2.webp"
+    },
+    {
+        "id":15,
+        "anime":"attackOnTitan",
+       "Image":"./../src/assets/earan-eager-1.png",
+        "Price":349,
+        "Mrp":499,
+        "Offer":"Attack On Titan",
+        "Type":"Over Sized",
+        "img2":"./../src/assets/mens_1_sub_1.webp",
+        "img3":"./../src/assets/mens_1_sub_2.webp"
+    },
+    {
+        "id":16,
+        "anime":"attackOnTitan",
+       "Image":"./../src/assets/earan-eager-1.png",
+        "Price":349,
+        "Mrp":499,
+        "Offer":"Attack On Titan",
+        "Type":"Over Sized",
+        "img2":"./../src/assets/mens_1_sub_1.webp",
+        "img3":"./../src/assets/mens_1_sub_2.webp"
+    }
+    , {
+        "id":17,
+        "anime":"demonSlayer",
+       "Image":"./../src/assets/upper-2.png",
+        "Price":349,
+        "Mrp":499,
+        "Offer":"Demon Slayer",
+        "Type":"Over Sized",
+        "img2":"./../src/assets/mens_1_sub_1.webp",
+        "img3":"./../src/assets/mens_1_sub_2.webp"
+    },
+    {
+        "id":18,
+        "anime":"demonSlayer",
+       "Image":"./../src/assets/upper-2.png",
+        "Price":349,
+        "Mrp":499,
+        "Offer":"Demon Slayer",
+        "Type":"Over Sized",
+        "img2":"./../src/assets/mens_1_sub_1.webp",
+        "img3":"./../src/assets/mens_1_sub_2.webp"
+    },
+    {
+        "id":19,
+        "anime":"demonSlayer",
+       "Image":"./../src/assets/upper-2.png",
+        "Price":349,
+        "Mrp":499,
+        "Offer":"Demon Slayer",
+        "Type":"Over Sized",
+        "img2":"./../src/assets/mens_1_sub_1.webp",
+        "img3":"./../src/assets/mens_1_sub_2.webp"
+    },
+    {
+        "id":20,
+        "anime":"demonSlayer",
+       "Image":"./../src/assets/upper-2.png",
+        "Price":349,
+        "Mrp":499,
+        "Offer":"Demon Slayer",
+        "Type":"Over Sized",
+        "img2":"./../src/assets/mens_1_sub_1.webp",
+        "img3":"./../src/assets/mens_1_sub_2.webp"
+    },
+     {
+        "id":21,
+        "anime":"demonSlayer",
+       "Image":"./../src/assets/upper-2.png",
+        "Price":349,
+        "Mrp":499,
+        "Offer":"Demon Slayer",
+        "Type":"Over Sized",
+        "img2":"./../src/assets/mens_1_sub_1.webp",
+        "img3":"./../src/assets/mens_1_sub_2.webp"
+    },
+    {
+        "id":22,
+        "anime":"demonSlayer",
+       "Image":"./../src/assets/upper-2.png",
+        "Price":349,
+        "Mrp":499,
+        "Offer":"Demon Slayer",
+        "Type":"Over Sized",
+        "img2":"./../src/assets/mens_1_sub_1.webp",
+        "img3":"./../src/assets/mens_1_sub_2.webp"
+    },
+    {
+        "id":23,
+        "anime":"demonSlayer",
+       "Image":"./../src/assets/upper-2.png",
+        "Price":349,
+        "Mrp":499,
+        "Offer":"Demon Slayer",
+        "Type":"Over Sized",
+        "img2":"./../src/assets/mens_1_sub_1.webp",
+        "img3":"./../src/assets/mens_1_sub_2.webp"
+    },
+    {
+        "id":24,
+        "anime":"demonSlayer",
+       "Image":"./../src/assets/upper-2.png",
+        "Price":349,
+        "Mrp":499,
+        "Offer":"Demon Slayer",
+        "Type":"Over Sized",
+        "img2":"./../src/assets/mens_1_sub_1.webp",
+        "img3":"./../src/assets/mens_1_sub_2.webp"
+    }
+]
