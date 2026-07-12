@@ -2,9 +2,9 @@ import React from 'react'
 import { Container, Row, Col } from 'react-bootstrap'
 import '/css/Categories.css'
 import { Link } from 'react-router-dom'
-import CategorieImgOne from '../assets/men_cat_img.webp'
-import CategorieImgTwo from '../assets/JBL07470.jpg'
-import CategorieImgThree from '../assets/kids_cat_img.avif'
+import CategorieImgOne from '/images/men_cat_img.webp'
+import CategorieImgTwo from '/images/JBL07470.jpg'
+import CategorieImgThree from '/images/kids_cat_img.avif'
 
 const Categories = () => {
   return (

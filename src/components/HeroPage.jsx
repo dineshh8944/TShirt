@@ -1,7 +1,7 @@
 import Carousel from 'react-bootstrap/Carousel';
-import SliderImgOne from '../assets/home_image_2_2.jpg';
-import SliderImgTwo from '../assets/home_image_2_2.jpg';
-import SliderImgThree from '../assets/home_image_2_2.jpg';
+// import SliderImgOne from '../assets/home_image_2_2.jpg';
+// import SliderImgTwo from '../assets/home_image_2_2.jpg';
+// import SliderImgThree from '../assets/home_image_2_2.jpg';
 import '/css/HeroPage.css'
 import { useContext } from 'react';
 import { ShopContext } from '../App';
