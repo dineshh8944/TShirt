@@ -6,7 +6,7 @@
         "Mrp":1999,
         "Offer":"Attack On Titan",
         "Type":"Black Floral Dress",
-        "Image":"./../src/assets/JBL07467.jpg",
+        "Image":"/images/JBL07467.jpg",
         "Quantity":1
     },
     {
@@ -16,7 +16,7 @@
         "Mrp":1999,
         "Offer":"Attack On Titan",
         "Type":"Yellow Floral Dress",
-        "Image":"./../src/assets/JBL07574(1).jpg",
+        "Image":"/images/JBL07574(1).jpg",
         "Quantity":1
     },
     {
@@ -25,7 +25,7 @@
         "Price":599, "Mrp":1999,
         "Offer":"Attack On Titan",
         "Type":"Brown Kalamkari Suit",
-        "Image":"./../src/assets/Project_20230221_0285.jpg",
+        "Image":"/images/Project_20230221_0285.jpg",
         "Quantity":1
     },
     {
@@ -35,7 +35,7 @@
         "Mrp":1999,
         "Offer":"Attack On Titan",
         "Type":"Mustard Muslin Suit",
-        "Image":"./../src/assets/Project_20230411_0260.jpg",
+        "Image":"/images/Project_20230411_0260.jpg",
         "Quantity":1
     },
     
@@ -46,7 +46,7 @@
         "Mrp":1999,
         "Offer":"Attack On Titan",
         "Type":"Solid Green Linen",
-        "Image":"./../src/assets/Project_20240413_0002.jpg",
+        "Image":"/images/Project_20240413_0002.jpg",
         "Quantity":1
     },
     {
@@ -56,7 +56,7 @@
         "Mrp":1999,
         "Offer":"Attack On Titan",
         "Type":"Brown Mulmul Kurta",
-        "Image":"./../src/assets/Project_20240413_0075.jpg",
+        "Image":"/images/Project_20240413_0075.jpg",
         "Quantity":1
     },
     {
@@ -66,7 +66,7 @@
         "Mrp":1999,
         "Offer":"Attack On Titan",
         "Type":"Red Floral Suit",
-        "Image":"./../src/assets/035A6837.webp",
+        "Image":"/images/035A6837.webp",
         "Quantity":1
     },
     {
@@ -76,7 +76,7 @@
         "Mrp":1999,
         "Offer":"Attack On Titan",
         "Type":"Pink Blossom Suit",
-        "Image":"./../src/assets/035A6927.webp",
+        "Image":"/images/035A6927.webp",
         "Quantity":1
     }
 ]

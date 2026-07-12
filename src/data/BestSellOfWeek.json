@@ -6,9 +6,9 @@
         "Mrp":999,
         "Offer":"Demon Slayer",
         "Type":"Over Sized",
-       "Image":"/src/assets/womens_3.webp",
-        "img2":"/src/assets/womens_3_sub_1.webp",
-        "img3":"/src/assets/womens_3_sub_2.webp"
+       "Image":"/images/womens_3.webp",
+        "img2":"/images/womens_3_sub_1.webp",
+        "img3":"/images/womens_3_sub_2.webp"
     },
     {
         "Id":10,
@@ -17,9 +17,9 @@
         "Mrp":699,
         "Offer":"Demon Slayer",       
         "Type":"Over Sized",
-        "Image":"./../src/assets/girl_black_1.webp",
-        "img2":"./../src/assets/girl-gray-1.webp",
-        "img3":"./../src/assets/girl_1-fashion-shirt.jpg"
+        "Image":"/images/girl_black_1.webp",
+        "img2":"/images/girl-gray-1.webp",
+        "img3":"/images/girl_1-fashion-shirt.jpg"
     },
     {
         "Id":11,
@@ -28,9 +28,9 @@
         "Mrp":1199,
         "Offer":"Demon Slayer",
         "Type":"Over Sized",
-        "Image":"./../src/assets/mens_4.webp",
-        "img2":"./../src/assets/mens_4_sub_1.webp",
-        "img3":"./../src/assets/mens_4_sub_2.webp"
+        "Image":"/images/mens_4.webp",
+        "img2":"/images/mens_4_sub_1.webp",
+        "img3":"/images/mens_4_sub_2.webp"
     },
     {
         "Id":12,
@@ -39,8 +39,8 @@
         "Mrp":1799,
         "Offer":"Demon Slayer",
         "Type":"Over Sized",
-        "Image":"./../src/assets/baggy_pant_1.webp",
-        "img2":"./../src/assets/baggy_sub_1.1.webp",
-        "img3":"./../src/assets/baggy_sub_1.webp"
+        "Image":"/images/baggy_pant_1.webp",
+        "img2":"/images/baggy_sub_1.1.webp",
+        "img3":"/images/baggy_sub_1.webp"
     }
 ]

@@ -6,9 +6,9 @@
         "Mrp":1199,
         "Offer":"One Pice",
         "Type":"Graph-Tactile Shirt",
-        "Image":"./../src/assets/men_2.webp",
-        "img2":"./../src/assets/men_2_sub_1.webp",
-        "img3":"./../src/assets/men_2_sub_2.webp"
+        "Image":"/images/men_2.webp",
+        "img2":"/images/men_2_sub_1.webp",
+        "img3":"/images/men_2_sub_2.webp"
     },
     {
         "Id":2,
@@ -17,9 +17,9 @@
         "Mrp":999,
         "Offer":"One Pice", 
        "Type":"Ombre-Striped Shirt",
-        "Image":"./../src/assets/mens_3.webp",
-        "img2":"./../src/assets/mens_3_sub_2.webp",
-        "img3":"./../src/assets/mens_3_sub_1.webp"
+        "Image":"/images/mens_3.webp",
+        "img2":"/images/mens_3_sub_2.webp",
+        "img3":"/images/mens_3_sub_1.webp"
     },
     {
         "Id":3,
@@ -28,9 +28,9 @@
         "Mrp":1599,
         "Offer":"One Pice",
         "Type":"Naruto T shirt",
-        "Image":"./../src/assets/naruto_normal_t-shirt_1.webp",
-        "img2":"./../src/assets/naruto_normal_sub_t-shirt_2.webp",
-        "img3":"./../src/assets/naruto_normal_t-shirt_1.webp"
+        "Image":"/images/naruto_normal_t-shirt_1.webp",
+        "img2":"/images/naruto_normal_sub_t-shirt_2.webp",
+        "img3":"/images/naruto_normal_t-shirt_1.webp"
     }
     ,
     {
@@ -40,8 +40,8 @@
         "Mrp":599,
         "Offer":"One Pice",        
         "Type":"Ice Blue T Shirt",
-        "Image":"./../src/assets/girl-blue1_1.webp",
-        "img2":"./../src/assets/man_blue_1-1.webp",
-        "img3":"./../src/assets/girl-blue1_1.webp"
+        "Image":"/images/girl-blue1_1.webp",
+        "img2":"/images/man_blue_1-1.webp",
+        "img3":"/images/girl-blue1_1.webp"
     }
 ]

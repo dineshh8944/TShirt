@@ -6,7 +6,7 @@
         "Mrp":1999,
         "Offer":50,
         "Type":"Shirt & Pant Set",
-        "Image":"./../src/assets/kid_1.webp",
+        "Image":"/images/kid_1.webp",
         "Quantity":1
     },
     {
@@ -16,7 +16,7 @@
         "Mrp":1999,
         "Offer":50,
         "Type":"Shirt & Blue Pant",
-        "Image":"./../src/assets/kid_2.webp",
+        "Image":"/images/kid_2.webp",
         "Quantity":1
     },
     {
@@ -25,7 +25,7 @@
         "Price":599, "Mrp":1999,
         "Offer":50,
         "Type":"Choli for Girls",
-        "Image":"./../src/assets/kid_3.webp",
+        "Image":"/images/kid_3.webp",
         "Quantity":1
     },
     {
@@ -35,7 +35,7 @@
         "Mrp":1999,
         "Offer":50,
         "Type":"Sea Green Choli",
-        "Image":"./../src/assets/kid_4.webp",
+        "Image":"/images/kid_4.webp",
         "Quantity":1
     },
     {
@@ -45,7 +45,7 @@
         "Mrp":1999,
         "Offer":50,
         "Type":"Sea Green Choli",
-        "Image":"./../src/assets/kid_5.webp",
+        "Image":"/images/kid_5.webp",
         "Quantity":1
     },
     {
@@ -55,7 +55,7 @@
         "Mrp":1999,
         "Offer":50,
         "Type":"Party Gown",
-        "Image":"./../src/assets/kid_6.webp",
+        "Image":"/images/kid_6.webp",
         "Quantity":1
     },
     {
@@ -65,7 +65,7 @@
         "Mrp":1999,
         "Offer":50,
         "Type":"Shirt & Cargo Pant",
-        "Image":"./../src/assets/kid_7.webp",
+        "Image":"/images/kid_7.webp",
         "Quantity":1
     },
     {
@@ -75,7 +75,7 @@
         "Mrp":1999,
         "Offer":50,
         "Type":"Shirt and Black Pant",
-        "Image":"./../src/assets/kid_8.webp",
+        "Image":"/images/kid_8.webp",
         "Quantity":1
     }
 ]

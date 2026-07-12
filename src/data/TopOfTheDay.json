@@ -6,9 +6,9 @@
         "Mrp":499,
         "Offer":"Attack On Titan",
         "Type":"Over Sized",
-        "Image":"./../src/assets/mens_1.webp",
-        "img2":"./../src/assets/mens_1_sub_1.webp",
-        "img3":"./../src/assets/mens_1_sub_2.webp"
+        "Image":"/images/mens_1.webp",
+        "img2":"/images/mens_1_sub_1.webp",
+        "img3":"/images/mens_1_sub_2.webp"
     },
     {
         "id":2,
@@ -17,9 +17,9 @@
         "Mrp":499,
         "Offer":"Attack On Titan",
         "Type":"Over Sized",
-        "Image":"./../src/assets/mens_2.webp",
-        "img2":"./../src/assets/mens_2_sub_2.webp",
-        "img3":"./../src/assets/mens_2_sub_1.webp"
+        "Image":"/images/mens_2.webp",
+        "img2":"/images/mens_2_sub_2.webp",
+        "img3":"/images/mens_2_sub_1.webp"
     },
     {
         "id":3,
@@ -28,9 +28,9 @@
         "Mrp":499,
         "Offer":"Attack On Titan",
          "Type":"Over Sized",
-        "Image":"./../src/assets/womens_1.webp",
-        "img2":"./../src/assets/womens_1_sub_1.webp",
-        "img3":"./../src/assets/womens_1_sub_2.webp"
+        "Image":"/images/womens_1.webp",
+        "img2":"/images/womens_1_sub_1.webp",
+        "img3":"/images/womens_1_sub_2.webp"
     }
     ,
     {
@@ -40,9 +40,9 @@
         "Mrp":499,
         "Offer":"Attack On Titan",
         "Type":"Over Sized",
-        "Image":"./../src/assets/womens_2.webp",
-        "img2":"./../src/assets/womens_2_sub_1.webp",
-        "img3":"./../src/assets/womens_2_sub_2.webp"
+        "Image":"/images/womens_2.webp",
+        "img2":"/images/womens_2_sub_1.webp",
+        "img3":"/images/womens_2_sub_2.webp"
     },
     {
         "id":5,
@@ -51,9 +51,9 @@
         "Mrp":499,
         "Offer":"Demon Slayer",
         "Type":"Over Sized",
-        "Image":"./../src/assets/mens_1.webp",
-        "img2":"./../src/assets/mens_1_sub_1.webp",
-        "img3":"./../src/assets/mens_1_sub_2.webp"
+        "Image":"/images/mens_1.webp",
+        "img2":"/images/mens_1_sub_1.webp",
+        "img3":"/images/mens_1_sub_2.webp"
     },
     {
         "id":6,
@@ -62,9 +62,9 @@
         "Mrp":499,
         "Offer":"Demon Slayer",
         "Type":"Over Sized",
-        "Image":"./../src/assets/mens_2.webp",
-        "img2":"./../src/assets/mens_2_sub_2.webp",
-        "img3":"./../src/assets/mens_2_sub_1.webp"
+        "Image":"/images/mens_2.webp",
+        "img2":"/images/mens_2_sub_2.webp",
+        "img3":"/images/mens_2_sub_1.webp"
     },
     {
         "id":7,
@@ -73,9 +73,9 @@
         "Mrp":499,
         "Offer":"Demon Slayer",
         "Type":"Over Sized",
-        "Image":"./../src/assets/womens_1.webp",
-        "img2":"./../src/assets/womens_1_sub_1.webp",
-        "img3":"./../src/assets/womens_1_sub_2.webp"
+        "Image":"/images/womens_1.webp",
+        "img2":"/images/womens_1_sub_1.webp",
+        "img3":"/images/womens_1_sub_2.webp"
     }
     ,
     {
@@ -85,8 +85,8 @@
         "Mrp":499,
         "Offer":"Demon Slayer",
       "Type":"Over Sized",
-        "Image":"./../src/assets/womens_2.webp",
-        "img2":"./../src/assets/womens_2_sub_1.webp",
-        "img3":"./../src/assets/womens_2_sub_2.webp"
+        "Image":"/images/womens_2.webp",
+        "img2":"/images/womens_2_sub_1.webp",
+        "img3":"/images/womens_2_sub_2.webp"
     }
 ]
