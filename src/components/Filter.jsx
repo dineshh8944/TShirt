@@ -1,7 +1,6 @@
 import React, { useContext, useEffect,useRef } from 'react'
 import '/css/filter.css'
 import { Container, Row,Col } from 'react-bootstrap';
-import Logo from '../assets/logo.png'
 import { Link } from 'react-router-dom';
 import { ShopContext } from '../App';
 import { useLocation } from 'react-router-dom';
