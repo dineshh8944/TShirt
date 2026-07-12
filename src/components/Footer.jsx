@@ -8,7 +8,7 @@ import FacebookIcon from '@mui/icons-material/Facebook';
 import LinkedInIcon from '@mui/icons-material/LinkedIn';
 import TwitterIcon from '@mui/icons-material/Twitter';
 import WhatsAppIcon from '@mui/icons-material/WhatsApp';
-import Logo from '../assets/BrandName.png'
+import Logo from '/images/BrandName.png'
 import '/css/Footer.css'
 import { Link } from 'react-router-dom';
 

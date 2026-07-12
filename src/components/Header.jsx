@@ -1,6 +1,6 @@
 import React, { useEffect, useRef, useState } from 'react';
 import '/css/Header.css'
-import Logo from '../assets/BrandName.png'
+import Logo from '/images/BrandName.png'
 // import logoOne from '../assets/header_logos.png'
 import 'bootstrap/dist/css/bootstrap.min.css';
 import {Container} from 'react-bootstrap';
