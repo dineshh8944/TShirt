@@ -92,17 +92,21 @@ const PickView = () => {
                 <Row key={prods.Id}>
         <Col lg={6} md={6} sm={6} xs={12}>
             <div className="left_1">
-                <div className="sub_img_1">
+                {/* <div className="sub_img_1">
                     <img onClick={PickOne} src={prods.Image} alt="" />
                     <img onClick={PickTwo} src={prods.img2} alt="" />
                     <img onClick={PickThree} src={prods.img3} alt=""  />
-                </div>
+                </div> */}
                     <div className='bigImg'>
                         { pickOne === true ? <img src={prods.Image} alt="" /> : 
                         pickTwo === true ? <img src={prods.img2} alt="" /> :
                         pickThree === true ? <img src={prods.img3} alt="" />:""}
                 </div>
-                
+                   <div className="sub_img_1">
+                    <img onClick={PickOne} src={prods.Image} alt="" />
+                    <img onClick={PickTwo} src={prods.img2} alt="" />
+                    <img onClick={PickThree} src={prods.img3} alt=""  />
+                </div>
             </div>
         </Col>
         <Col lg={6} md={6} sm={6} xs={12}>

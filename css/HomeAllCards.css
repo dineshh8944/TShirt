@@ -15,21 +15,26 @@
 }
 .one_pice ul .CartBtnLi{
     font-weight: 400;
-    color: #000;
+    color: #51333e;
     position: relative;
 }
 .one_pice ul li span{
     margin: 0px 2px;
 }
 .one_pice ul li .Off{
-    font-size: 15px;
+    /* font-size: 15px;
     font-weight: 500;
-    color: orange;
+    color: #51333e;
+    margin-left: 10px; */
+
+        font-size: 17px;
+    font-weight: 700;
+    color: #51333e;
     margin-left: 10px;
 }
 .one_pice ul li{
     list-style-type: none;
-    color:  rgb(95, 95, 95);
+    color:  rgb(25 141 0);
     font-size: 18px;
 }
 

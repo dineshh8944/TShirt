@@ -20,6 +20,8 @@
     margin: 0px 0px 0px 0px;
     display: flex;
     margin: 0px 0px 0px 182px;
+    background-color: #fff;
+    /* border: #36232a solid; */
 }
 /* 
 .filter .conter_2 .ul_1 li{
@@ -48,7 +50,7 @@
     text-decoration: none;
     font-size: 18px;
     font-weight: 600;
-    color: #8d605d;
+    color: #36232a;
     /* color: #0f284d; */
     margin: 5px 0px 0px 30px;
     display: none;
@@ -64,7 +66,7 @@
     cursor: pointer;
     position: relative;
     height: 30px;
-    color:#8d605d;
+    color:#36232a;
 }
 /* .filter .conter_2 .dropdown-menu{
     padding: 0px 0px 0px 0px;

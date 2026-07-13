@@ -1,11 +1,12 @@
 [
     {
-        "img":"/images/hero_5.png"
+        
+        "img":"/images/hero_banner_3.1.png"
     },
     {
-       "img":"/images/home_image_1.webp"
+       "img":"/images/Hero-Banner-2.png"
     },
     { 
-         "img":"/images/home_image_2_2.jpg"
+         "img":"/images/hero_banner_1.2.png"
     }
 ]
