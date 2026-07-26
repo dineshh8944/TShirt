@@ -1,5 +1,5 @@
 import React, { createContext, useEffect, useRef, useState } from 'react'
-import {BrowserRouter,Route,Routes,useNavigate} from 'react-router-dom'
+import {BrowserRouter,Route,Routes,useNavigate,HashRouter} from 'react-router-dom'
 import  { useLocation } from "react-router-dom";
 
 import TopDay from '/src/data/TopOfTheDay.json'
@@ -104,7 +104,8 @@ const App = () => {
   return (
     <>
       <ShopContext.Provider value={{TheemsRef,filteredAnime,OptionExample,selectedAnime,setSelectedAnime,changeAnimeCharecter,totalCount,setTotalCount,HeroOneJson,HeroTwoJson,bannerJson,HeroOne,setHeroOne,HeroTwo,setHeroTwo,HeroThree,setHeroThree,StarRateIcon,RemoveShoppingCartIcon,AddShoppingCartIcon,TopId,BestId,setTopId,setBestId,FilProductPick,setFilProductPick,FilProductTop,FilProductBest,setFilProductTop,setFilProductBest,TshirtId,setTshirtId,TopDay,BestSells,PickUp,TShirt,Cart,setCart,CurrencyRupeeIcon,Hoodies,Pants,topWears,bottomWears}}>
-        <BrowserRouter>
+        {/* <BrowserRouter> */}
+          <HashRouter>
         <ScrollToTop />
         <Header/>
         <Filter/>
@@ -122,7 +123,8 @@ const App = () => {
                 <Route path='/BottomWear' element={<BottomWear />} />
             </Routes>
           <Footer/>
-        </BrowserRouter>
+          </HashRouter>
+        {/* </BrowserRouter> */}
       </ShopContext.Provider>
     </>
   )
