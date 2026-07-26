@@ -145,3 +145,103 @@ filteredAnime.length === 0 ? (
 }
 
 export default Home
+
+
+
+
+
+
+
+
+//  [
+//     {
+//         "id":1,
+//         "Name":"Over Sized",
+//         "Price":349,
+//         "Mrp":499,
+//         "Offer":"Attack On Titan",
+//         "Type":"Over Sized",
+//         "Image":"/images/aot-1.1.jpg",
+//         "img2":"/images/aot-1.2.jpg",
+//         "img3":"/images/aot-1.jpg"
+//     },
+//     {
+//         "id":2,
+//         "Name":"Over Sized",
+//         "Price":349,
+//         "Mrp":499,
+//         "Offer":"Attack On Titan",
+//         "Type":"Over Sized",
+//         "Image":"/images/Ju-2.1.jpg",
+//         "img2":"/images/Ju-2.jpg",
+//         "img3":"/images/Ju-2.2.jpg"
+//     },
+//     {
+//         "id":3,
+//         "Name":"Over Sized",
+//        "Price":649,
+//         "Mrp":999,
+//         "Offer":"Attack On Titan",
+//          "Type":"Over Sized",
+//         "Image":"/images/d-1.jpg",
+//         "img2":"/images/d-1.1.jpg",
+//         "img3":"/images/d-1.2.jpg"
+//     }
+//     ,
+//     {
+//         "id":4,
+//         "Name":"Over Sized",
+//         "Price":349,
+//         "Mrp":499,
+//         "Offer":"Attack On Titan",
+//         "Type":"Over Sized",
+//         "Image":"/images/car-1.1.jpg",
+//         "img2":"/images/car-1.2.jpg",
+//         "img3":"/images/car-1.jpg"
+//     },
+//     {
+//         "id":5,
+//         "Name":"Over Sized",
+//         "Price":349,
+//         "Mrp":499,
+//         "Offer":"Demon Slayer",
+//         "Type":"Over Sized",
+//         "Image":"/images/one-2.1.jpg",
+//         "img2":"/images/one-2.jpg",
+//         "img3":"/images/one-2.2.jpg"
+//     },
+//     {
+//         "id":6,
+//         "Name":"Over Sized",
+//         "Price":349,
+//         "Mrp":999,
+//         "Offer":"Demon Slayer",
+//         "Type":"Over Sized",
+//         "Image":"/images/car-2.1.jpg",
+//         "img2":"/images/car-2.2.jpg",
+//         "img3":"/images/car-2.jpg"
+//     },
+//     {
+//         "id":7,
+//         "Name":"Over Sized",
+//        "Price":349,
+//         "Mrp":499,
+//         "Offer":"Demon Slayer",
+//         "Type":"Over Sized",
+//         "Image":"/images/n-2.1.jpg",
+//         "img2":"/images/n-2.2.jpg",
+//         "img3":"/images/n-2.jpg"
+//     }
+//     ,
+//     {
+//         "id":8,
+//         "Name":"Over Sized",
+//         "Price":349,
+//         "Mrp":499,
+//         "Offer":"Demon Slayer",
+//       "Type":"Over Sized",
+//         "Image":"/images/solo-1.1.jpg",
+//         "img2":"/images/solo-1.2.jpg",
+//         "img3":"/images/solo-1.jpg"
+//     }
+// ]

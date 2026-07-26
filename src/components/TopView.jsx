@@ -109,15 +109,16 @@ const TopView = () => {
                <Row>
                <Col lg={6} md={6} sm={6} xs={12}>
                    <div className="left_1">
-                        <div className="sub_img_1">
-                            <img onClick={PickOne} src={products.Image} alt="" />
-                            <img onClick={PickTwo} src={products.img2} alt="" />
-                            <img onClick={PickThree} src={products.img3} alt=""  />
-                        </div>
                             <div className='bigImg'>
                                 { topOne === true ? <img src={products.Image} alt="" /> : 
                                 topTwo === true ? <img src={products.img2} alt="" /> :
                                 topThree === true ? <img src={products.img3} alt="" />:""}
+                        </div>
+
+                         <div className="sub_img_1">
+                            <img onClick={PickOne} src={products.Image} alt="" />
+                            <img onClick={PickTwo} src={products.img2} alt="" />
+                            <img onClick={PickThree} src={products.img3} alt=""  />
                         </div>
                    </div>
                </Col>
@@ -140,7 +141,7 @@ const TopView = () => {
                                    <button className='Size-L'>L</button><button className='Size-XL'>XL</button></li>
                                <li><hr /></li>
                                {/* <li><button className='DealBtn'>Limited time deal</button></li> */}
-                               <li><p>M.R.P : <span className='RateCros' > Rs .499.00 </span></p></li>
+                               <li><p>M.R.P : <span className='RateCros' > Rs .{products.Mrp}.00 </span></p></li>
                               <li><p><span> Rs . {products.Price}.00</span><span className='sales' >sale</span></p></li>
                                {/* <li><h1 className='Off'>50%</h1></li> */}
                                <li><hr /></li>

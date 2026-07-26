@@ -37,7 +37,7 @@ const Footer = () => {
                     <li><h3>Contact us</h3></li>
                     <li><LocationOnIcon/>Thanjavur</li>
                     <li><WhatsAppIcon/>9894334194</li>
-                    <li><Link to="@omg_prabakar" target="_blank"><InstagramIcon/>@omg_prabakar</Link></li>
+                    <li><Link to="https://www.instagram.com/omg_prabakar/" target="_blank"><InstagramIcon/>@omg_prabakar</Link></li>
                     <li id="emailfont"><EmailIcon/>Brothers2001@gmail.com</li>
                      <li><InstagramIcon/></li>
                     {/* <li><a href="">Partner with us</a></li> */}

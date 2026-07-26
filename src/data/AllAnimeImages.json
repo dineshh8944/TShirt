@@ -1,178 +1,257 @@
 [
     {
-        "id":9,
+        "id":25,
         "anime":"attackOnTitan",
-       "Image":"/images/earan-eager-1.png",
+       "Image":"/images/aot-1.1.jpg",
         "Price":349,
         "Mrp":499,
         "Offer":"Attack On Titan",
         "Type":"Over Sized",
-        "img2":"/images/mens_1_sub_1.webp",
-        "img3":"/images/mens_1_sub_2.webp"
+        "img2":"/images/aot-1.2.jpg",
+        "img3":"/images/aot-1.jpg"
+    }
+    ,
+    {
+        "id":26,
+        "anime":"car",
+       "Image":"/images/car-1.1.jpg",
+        "Price":349,
+        "Mrp":499,
+        "Offer":"Car",
+        "Type":"Over Sized",
+        "img2":"/images/car-1.2.jpg",
+        "img3":"/images/car-1.jpg"
     },
     {
-        "id":10,
-        "anime":"attackOnTitan",
-       "Image":"/images/earan-eager-1.png",
+        "id":27,
+        "anime":"car",
+       "Image":"/images/car-2.1.jpg",
         "Price":349,
         "Mrp":499,
-        "Offer":"Attack On Titan",
-        "Type":"Over Sized",
-        "img2":"/images/mens_1_sub_1.webp",
-        "img3":"/images/mens_1_sub_2.webp"
+        "Offer":"Car",
+        "Type":"Acid Wash Hoodie",
+        "img2":"/images/car-2.2.jpg",
+        "img3":"/images/car-2.jpg"
     },
     {
-        "id":11,
-        "anime":"attackOnTitan",
-       "Image":"/images/earan-eager-1.png",
+        "id":28,
+        "anime":"car",
+       "Image":"/images/car-3.1.jpg",
         "Price":349,
         "Mrp":499,
-        "Offer":"Attack On Titan",
+        "Offer":"Car",
         "Type":"Over Sized",
-        "img2":"/images/mens_1_sub_1.webp",
-        "img3":"/images/mens_1_sub_2.webp"
-    },
-    {
-        "id":12,
-        "anime":"attackOnTitan",
-       "Image":"/images/earan-eager-1.png",
-        "Price":349,
-        "Mrp":499,
-        "Offer":"Attack On Titan",
-        "Type":"Over Sized",
-        "img2":"/images/mens_1_sub_1.webp",
-        "img3":"/images/mens_1_sub_2.webp"
+        "img2":"/images/car-3.2.jpg",
+        "img3":"/images/car-3.jpg"
     },
      {
-        "id":13,
-        "anime":"attackOnTitan",
-       "Image":"/images/earan-eager-1.png",
+        "id":29,
+        "anime":"naruto",
+       "Image":"/images/n-1.1.jpg",
         "Price":349,
         "Mrp":499,
-        "Offer":"Attack On Titan",
+        "Offer":"Naruto",
         "Type":"Over Sized",
-        "img2":"/images/mens_1_sub_1.webp",
-        "img3":"/images/mens_1_sub_2.webp"
+        "img2":"/images/n-1.2.jpg",
+        "img3":"/images/n-1.jpg"
     },
     {
-        "id":14,
-        "anime":"attackOnTitan",
-       "Image":"/images/earan-eager-1.png",
+        "id":30,
+        "anime":"naruto",
+       "Image":"/images/n-2.1.jpg",
         "Price":349,
         "Mrp":499,
-        "Offer":"Attack On Titan",
+        "Offer":"Naruto",
         "Type":"Over Sized",
-        "img2":"/images/mens_1_sub_1.webp",
-        "img3":"/images/mens_1_sub_2.webp"
+        "img2":"/images/n-2.2.jpg",
+        "img3":"/images/n-2.jpg"
     },
     {
-        "id":15,
-        "anime":"attackOnTitan",
-       "Image":"/images/earan-eager-1.png",
+        "id":31,
+        "anime":"naruto",
+       "Image":"/images/n-3.1.jpg",
         "Price":349,
         "Mrp":499,
-        "Offer":"Attack On Titan",
+        "Offer":"Naruto",
         "Type":"Over Sized",
-        "img2":"/images/mens_1_sub_1.webp",
-        "img3":"/images/mens_1_sub_2.webp"
+        "img2":"/images/n-3.2.jpg",
+        "img3":"/images/n-3.jpg"
     },
     {
-        "id":16,
-        "anime":"attackOnTitan",
-       "Image":"/images/earan-eager-1.png",
+        "id":32,
+        "anime":"onepiece",
+       "Image":"/images/one-1.1.jpg",
         "Price":349,
         "Mrp":499,
-        "Offer":"Attack On Titan",
+        "Offer":"One Piece",
         "Type":"Over Sized",
-        "img2":"/images/mens_1_sub_1.webp",
-        "img3":"/images/mens_1_sub_2.webp"
+        "img2":"/images/one-1.2.jpg",
+        "img3":"/images/one-1.jpg"
     }
     , {
-        "id":17,
+        "id":33,
         "anime":"demonSlayer",
-       "Image":"/images/upper-2.png",
+       "Image":"/images/d-1.jpg",
         "Price":349,
         "Mrp":499,
         "Offer":"Demon Slayer",
-        "Type":"Over Sized",
-        "img2":"/images/mens_1_sub_1.webp",
-        "img3":"/images/mens_1_sub_2.webp"
+        "Type":"Acid wash Hoodie",
+        "img2":"/images/d-1.2.jpg",
+        "img3":"/images/d-1.1.jpg"
     },
     {
-        "id":18,
+        "id":34,
         "anime":"demonSlayer",
-       "Image":"/images/upper-2.png",
+       "Image":"/images/d-2.1.jpg",
         "Price":349,
         "Mrp":499,
         "Offer":"Demon Slayer",
         "Type":"Over Sized",
-        "img2":"/images/mens_1_sub_1.webp",
-        "img3":"/images/mens_1_sub_2.webp"
+        "img2":"/images/d-2.2.jpg",
+        "img3":"/images/d-2.jpg"
     },
     {
-        "id":19,
+        "id":35,
         "anime":"demonSlayer",
-       "Image":"/images/upper-2.png",
+       "Image":"/images/d-3.1.jpg",
         "Price":349,
         "Mrp":499,
         "Offer":"Demon Slayer",
         "Type":"Over Sized",
-        "img2":"/images/mens_1_sub_1.webp",
-        "img3":"/images/mens_1_sub_2.webp"
-    },
-    {
-        "id":20,
-        "anime":"demonSlayer",
-       "Image":"/images/upper-2.png",
-        "Price":349,
-        "Mrp":499,
-        "Offer":"Demon Slayer",
-        "Type":"Over Sized",
-        "img2":"/images/mens_1_sub_1.webp",
-        "img3":"/images/mens_1_sub_2.webp"
+        "img2":"/images/d-3.2.jpg",
+        "img3":"/images/d-3.jpg"
     },
      {
-        "id":21,
-        "anime":"demonSlayer",
-       "Image":"/images/upper-2.png",
+        "id":37,
+        "anime":"onepiece",
+       "Image":"/images/one-2.1.jpg",
         "Price":349,
         "Mrp":499,
-        "Offer":"Demon Slayer",
+        "Offer":"One Piece",
         "Type":"Over Sized",
-        "img2":"/images/mens_1_sub_1.webp",
-        "img3":"/images/mens_1_sub_2.webp"
+        "img2":"/images/one-2.2.jpg",
+        "img3":"/images/one-2.jpg"
+    }
+    ,
+     {
+        "id":38,
+        "anime":"spiderman",
+       "Image":"/images/spi-1.1.jpg",
+        "Price":349,
+        "Mrp":499,
+        "Offer":"Spider Man",
+        "Type":"Over Sized",
+        "img2":"/images/spi-1.2.jpg",
+        "img3":"/images/spi-1.jpg"
     },
     {
-        "id":22,
-        "anime":"demonSlayer",
-       "Image":"/images/upper-2.png",
+        "id":39,
+        "anime":"onepiece",
+       "Image":"/images/one-3.1.jpg",
         "Price":349,
         "Mrp":499,
-        "Offer":"Demon Slayer",
+        "Offer":"One Piece",
         "Type":"Over Sized",
-        "img2":"/images/mens_1_sub_1.webp",
-        "img3":"/images/mens_1_sub_2.webp"
+        "img2":"/images/one-3.2.jpg",
+        "img3":"/images/one-3.jpg"
     },
     {
-        "id":23,
-        "anime":"demonSlayer",
-       "Image":"/images/upper-2.png",
+        "id":40,
+        "anime":"onepiece",
+       "Image":"/images/one-4.1.jpg",
         "Price":349,
         "Mrp":499,
-        "Offer":"Demon Slayer",
+        "Offer":"One Piece",
         "Type":"Over Sized",
-        "img2":"/images/mens_1_sub_1.webp",
-        "img3":"/images/mens_1_sub_2.webp"
+        "img2":"/images/one-4.2.jpg",
+        "img3":"/images/one-4.jpg"
     },
     {
-        "id":24,
-        "anime":"demonSlayer",
-       "Image":"/images/upper-2.png",
+        "id":41,
+        "anime":"hunterXhunter",
+       "Image":"/images/hxh-1.1.jpg",
         "Price":349,
         "Mrp":499,
-        "Offer":"Demon Slayer",
+        "Offer":"Hunter X Hunter",
         "Type":"Over Sized",
-        "img2":"/images/mens_1_sub_1.webp",
-        "img3":"/images/mens_1_sub_2.webp"
+        "img2":"/images/hxh-1.2.jpg",
+        "img3":"/images/hxh-1.jpg"
+    },
+       {
+        "id":42,
+        "anime":"jujutsuKaisen",
+       "Image":"/images/Ju-1.1.jpg",
+        "Price":349,
+        "Mrp":499,
+        "Offer":"Jujutsu Kaisen",
+        "Type":"Over Sized",
+        "img2":"/images/Ju-1.2.jpg",
+        "img3":"/images/Ju-1.jpg"
+    },
+       {
+        "id":43,
+        "anime":"jujutsuKaisen",
+       "Image":"/images/Ju-2.1.jpg",
+        "Price":349,
+        "Mrp":499,
+        "Offer":"Jujutsu Kaisen",
+        "Type":"Over Sized",
+        "img2":"/images/Ju-2.2.jpg",
+        "img3":"/images/Ju-2.jpg"
+    },
+    {
+        "id":44,
+        "anime":"jujutsuKaisen",
+       "Image":"/images/Ju-3.1.jpg",
+        "Price":349,
+        "Mrp":499,
+        "Offer":"Jujutsu Kaisen",
+        "Type":"Over Sized",
+        "img2":"/images/Ju-3.2.jpg",
+        "img3":"/images/Ju-3.jpg"
+    },
+       {
+        "id":45,
+        "anime":"linelog",
+       "Image":"/images/o-1.1.jpg",
+        "Price":349,
+        "Mrp":499,
+        "Offer":"Lion Log",
+        "Type":"Over Sized",
+        "img2":"/images/o-1.2.jpg",
+        "img3":"/images/o-1.jpg"
+    },
+       {
+        "id":46,
+        "anime":"thanjai",
+       "Image":"/images/o-2.1.jpg",
+        "Price":349,
+        "Mrp":499,
+        "Offer":"Thanjai Big Temple",
+        "Type":"Over Sized",
+        "img2":"/images/o-2.2.jpg",
+        "img3":"/images/o-2.jpg"
+    },
+       {
+        "id":47,
+        "anime":"thalapathyvijay",
+       "Image":"/images/o-3.1.jpg",
+        "Price":349,
+        "Mrp":499,
+        "Offer":"Thalapathy Vijay",
+        "Type":"Over Sized",
+        "img2":"/images/o-3.2.jpg",
+        "img3":"/images/o-3.jpg"
+    },
+       {
+        "id":48,
+        "anime":"spiderman",
+        "Price":349,
+        "Mrp":499,
+        "Offer":"Spider Man",
+        "Type":"Over Sized",
+        "Image":"/images/spi-1.1.jpg",
+        "img2":"/images/spi-1.2.jpg",
+        "img3":"/images/spi-1.jpg"
     }
 ]

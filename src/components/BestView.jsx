@@ -96,16 +96,23 @@ const BestView = () => {
                     <img onClick={PickTwo} src={pro.img2} alt="" />
                     <img onClick={PickThree} src={pro.img3} alt=""  />
                 </div> */}
-                    <div className='bigImg'>
+                    {/* <div className='bigImg'>
                         { bestOne === true ? <img src={pro.Image} alt="" /> : 
                         bestTwo === true ? <img src={pro.img2} alt="" /> :
                         bestThree === true ? <img src={pro.img3} alt="" />:""}
-                </div>
+                </div> */}
                  <div className="sub_img_1">
                     <img onClick={PickOne} src={pro.Image} alt="" />
                     <img onClick={PickTwo} src={pro.img2} alt="" />
                     <img onClick={PickThree} src={pro.img3} alt=""  />
                 </div>
+
+               <div className='bigImg'>
+                        { bestOne === true ? <img src={pro.Image} alt="" /> : 
+                        bestTwo === true ? <img src={pro.img2} alt="" /> :
+                        bestThree === true ? <img src={pro.img3} alt="" />:""}
+                </div>
+
             </div>
         </Col>
         <Col lg={6} md={6} sm={6} xs={12}>

@@ -35,6 +35,18 @@ export default function OptionExample() {
           <option value="demonSlayer" className="formTheemOption">
             Demon Slayer
           </option>
+          <option value="jujutsuKaisen" className="formTheemOption">
+            Jujutsu Kaisen
+          </option>
+          <option value="onepiece" className="formTheemOption">
+            One Piece
+          </option>
+          <option value="naruto" className="formTheemOption">
+            Naruto
+          </option>
+          <option value="car" className="formTheemOption">
+            Cars
+          </option>
 
        
       </select>

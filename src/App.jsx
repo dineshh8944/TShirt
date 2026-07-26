@@ -46,9 +46,16 @@ export const ShopContext = createContext()
 
 const App = () => {
   // const [PickId,setPickId] = useState(null)
-  const [TopId,setTopId] = useState(null);
+  // const [TopId,setTopId] = useState(null);
+  const [TopId,setTopId] = useState(() => {
+  return JSON.parse(localStorage.getItem("TopId")) || null;
+});
   const [BestId,setBestId] = useState(null);
-  const [FilProductPick,setFilProductPick] = useState([]);
+    // const [FilProductPick,setFilProductPick] = useState([]);
+    const [FilProductPick, setFilProductPick] = useState(() => {
+  const saved = localStorage.getItem("FilProductPick");
+  return saved ? JSON.parse(saved) : [];
+});
   const [FilProductTop,setFilProductTop] = useState([]);
   const [FilProductBest,setFilProductBest] = useState([]);
   const [Cart,setCart] = useState([]);
@@ -59,7 +66,10 @@ const App = () => {
   const [HeroTwo,setHeroTwo] = useState(false);
   const [HeroThree,setHeroThree] = useState(false);
 
-  const [selectedAnime,setSelectedAnime] = useState("");
+  // const [selectedAnime,setSelectedAnime] = useState("");
+  const [selectedAnime, setSelectedAnime] = useState(() => {
+  return localStorage.getItem("selectedAnime") || "";
+});
     const TheemsRef = useRef(null);
 
     
@@ -67,6 +77,7 @@ const App = () => {
   const filteredAnime = changeAnimeCharecter.filter(
     (item) => item.anime === selectedAnime
   );
+
 
 
   function RemoveViewDetails(productRemove) {
@@ -79,10 +90,13 @@ const App = () => {
     const { pathname } = useLocation(); // Get the current route (pathname)
   
     useEffect(() => {
-      // Scroll to the top of the page whenever the route changes
+ localStorage.setItem("TopId", JSON.stringify(TopId));
+  localStorage.setItem("selectedAnime", selectedAnime);
+   // Scroll to the top of the page whenever the route changes
       window.scrollTo(0, 0);
-    }, [pathname]); // Run this effect whenever `pathname` changes
-  
+    }, [pathname,TopId,selectedAnime]); // Run this effect whenever `pathname` changes
+
+
     return null; // This component doesn't render anything
   };
 

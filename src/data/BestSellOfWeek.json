@@ -1,46 +1,46 @@
 [
     {
-        "Id":9,
+        "Id":49,
         "Name":"Pink-Teddy Jacket",
-        "Price":599,
-        "Mrp":999,
+        "Price":349,
+        "Mrp":499,
         "Offer":"Demon Slayer",
         "Type":"Over Sized",
-       "Image":"/images/womens_3.webp",
-        "img2":"/images/womens_3_sub_1.webp",
-        "img3":"/images/womens_3_sub_2.webp"
+       "Image":"/images/spi-1.1.jpg",
+        "img2":"/images/spi-1.2.jpg",
+        "img3":"/images/spi-1.jpg"
     },
     {
-        "Id":10,
+        "Id":50,
         "Name":"fashion Girl t shirt",
-        "Price":299,
-        "Mrp":699,
+        "Price":349,
+        "Mrp":499,
         "Offer":"Demon Slayer",       
         "Type":"Over Sized",
-        "Image":"/images/girl_black_1.webp",
-        "img2":"/images/girl-gray-1.webp",
-        "img3":"/images/girl_1-fashion-shirt.jpg"
+        "Image":"/images/o-2.jpg",
+        "img2":"/images/o-2.2.jpg",
+        "img3":"/images/o-2.1.jpg"
     },
     {
-        "Id":11,
+        "Id":51,
         "Name":"Striped-Casual Shirt",
-        "Price":599,
-        "Mrp":1199,
+        "Price":349,
+        "Mrp":499,
         "Offer":"Demon Slayer",
         "Type":"Over Sized",
-        "Image":"/images/mens_4.webp",
-        "img2":"/images/mens_4_sub_1.webp",
-        "img3":"/images/mens_4_sub_2.webp"
+        "Image":"/images/Ju-1.1.jpg",
+        "img2":"/images/Ju-1.2.jpg",
+        "img3":"/images/Ju-1.jpg"
     },
     {
-        "Id":12,
+        "Id":52,
         "Name":"Baggy",
-        "Price":899,
-        "Mrp":1799,
+        "Price":349,
+        "Mrp":499,
         "Offer":"Demon Slayer",
         "Type":"Over Sized",
-        "Image":"/images/baggy_pant_1.webp",
-        "img2":"/images/baggy_sub_1.1.webp",
-        "img3":"/images/baggy_sub_1.webp"
+        "Image":"/images/hxh-1.jpg",
+        "img2":"/images/hxh-1.1.jpg",
+        "img3":"/images/hxh-1.2.jpg"
     }
 ]
