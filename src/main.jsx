@@ -5,12 +5,15 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import App from './App.jsx'
 import Home from './Home.jsx'
 import Header from './components/Header.jsx'
+import { HashRouter } from "react-router-dom";
 
 
 createRoot(document.getElementById('root')).render(
   <>
 
-    <App/>
+  <HashRouter>
+  <App />
+</HashRouter>
     {/* <Booststrap/> */}
   </>,
 )
