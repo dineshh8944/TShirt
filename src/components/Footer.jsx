@@ -36,10 +36,10 @@ const Footer = () => {
                 <ul>
                     <li><h3>Contact us</h3></li>
                     <li><LocationOnIcon/>Thanjavur</li>
-                    <li><WhatsAppIcon/>9894334194</li>
-                    <li><Link to="https://www.instagram.com/omg_prabakar/" target="_blank"><InstagramIcon/>@omg_prabakar</Link></li>
-                    <li id="emailfont"><EmailIcon/>Brothers2001@gmail.com</li>
-                     <li><InstagramIcon/></li>
+                    <li><Link to="https://wa.me/message/OVPD2URD2UF4K1" target="_blank"><WhatsAppIcon/>9894334194</Link></li>
+                    <li><Link to="https://www.instagram.com/brothers_clothings/" target="_blank"><InstagramIcon/>@omg_prabakar</Link></li>
+                    {/* <li id="emailfont"><EmailIcon/>brothers29072026@gmail.com</li> */}
+                     {/* <li><InstagramIcon/></li> */}
                     {/* <li><a href="">Partner with us</a></li> */}
                     {/* <li><InstagramIcon/><FacebookIcon/><LinkedInIcon/><TwitterIcon/></li> */}
                 </ul>

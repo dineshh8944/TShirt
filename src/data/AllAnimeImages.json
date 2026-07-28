@@ -1,184 +1,234 @@
 [
-    {
+   
+        {
         "id":25,
+        "anime":"onepiece",
+       "Image":"/images/One--2.1.jpg",
+        "Price":349,
+        "Mrp":499,
+        "Offer":"One Piece",
+        "Type":"Over Sized",
+        "img2":"/images/One--2.2.jpg",
+        "img3":"/images/One--2.3.jpg"
+    }
+    ,
+     {
+        "id":26,
+        "anime":"spiderman",
+       "Image":"/images/Spi--1.1.jpg",
+        "Price":349,
+        "Mrp":499,
+        "Offer":"Spider Man",
+        "Type":"Over Sized",
+        "img2":"/images/Spi--1.2.jpg",
+        "img3":"/images/Spi--1.3.jpg"
+    },
+     {
+        "id":27,
         "anime":"attackOnTitan",
-       "Image":"/images/aot-1.1.jpg",
+       "Image":"/images/Aot--1.1.jpg",
         "Price":349,
         "Mrp":499,
         "Offer":"Attack On Titan",
         "Type":"Over Sized",
-        "img2":"/images/aot-1.2.jpg",
-        "img3":"/images/aot-1.jpg"
+        "img2":"/images/Aot--1.2.jpg",
+        "img3":"/images/Aot--1.3.jpg"
+    },
+   
+    {
+        "id":28,
+        "anime":"hunterXhunter",
+       "Image":"/images/HXH--1.1.jpg",
+        "Price":349,
+        "Mrp":499,
+        "Offer":"Hunter X Hunter",
+        "Type":"Over Sized",
+        "img2":"/images/HXH--1.2.jpg",
+        "img3":"/images/HXH--1.3.jpg"
+    },
+ 
+    
+      
+      {
+        "id":29,
+        "anime":"demonSlayer",
+       "Image":"/images/D--1.1.jpg",
+        "Price":649,
+        "Mrp":999,
+        "Offer":"Demon Slayer",
+        "Type":"Acid Wash Hoodie",
+        "img2":"/images/D--1.2.jpg",
+        "img3":"/images/D--1.3.jpg"
+    },
+    
+    {
+        "id":30,
+        "anime":"car",
+       "Image":"/images/Car--2.1.jpg",
+        "Price":649,
+        "Mrp":999,
+        "Offer":"Car",
+        "Type":"Acid Wash Hoodie",
+        "img2":"/images/Car--2.2.jpg",
+        "img3":"/images/Car--2.3.jpg"
     }
     ,
     {
-        "id":26,
-        "anime":"car",
-       "Image":"/images/car-1.1.jpg",
-        "Price":349,
-        "Mrp":499,
-        "Offer":"Car",
-        "Type":"Over Sized",
-        "img2":"/images/car-1.2.jpg",
-        "img3":"/images/car-1.jpg"
-    },
-    {
-        "id":27,
-        "anime":"car",
-       "Image":"/images/car-2.1.jpg",
-        "Price":349,
-        "Mrp":499,
-        "Offer":"Car",
+        "id":31,
+        "anime":"hoodie",
+       "Image":"/images/Hoo--1.1.jpg",
+        "Price":649,
+        "Mrp":999,
+        "Offer":"Hoodie",
         "Type":"Acid Wash Hoodie",
-        "img2":"/images/car-2.2.jpg",
-        "img3":"/images/car-2.jpg"
+        "img2":"/images/Hoo--1.2.jpg",
+        "img3":"/images/Hoo--1.3.jpg"
+    }
+    , 
+     {
+        "id":32,
+        "anime":"demonSlayer",
+       "Image":"/images/D--2.1.jpg",
+        "Price":349,
+        "Mrp":499,
+        "Offer":"Demon Slayer",
+        "Type":"Over Sized",
+        "img2":"/images/D--2.2.jpg",
+        "img3":"/images/D--2.3.jpg"
+    },
+     {
+        "id":33,
+        "anime":"naruto",
+       "Image":"/images/N--2.1.jpg",
+        "Price":349,
+        "Mrp":499,
+        "Offer":"Naruto",
+        "Type":"Over Sized",
+        "img2":"/images/N--2.2.jpg",
+        "img3":"/images/N--2.3.jpg"
+    },
+    
+    {
+        "id":34,
+        "anime":"onepiece",
+       "Image":"/images/One--1.1.jpg",
+        "Price":349,
+        "Mrp":499,
+        "Offer":"One Piece",
+        "Type":"Over Sized",
+        "img2":"/images/One--1.2.jpg",
+        "img3":"/images/One--1.3.jpg"
+    },
+    
+    {
+        "id":35,
+        "anime":"naruto",
+       "Image":"/images/N--1.1.jpg",
+        "Price":349,
+        "Mrp":499,
+        "Offer":"Naruto",
+        "Type":"Over Sized",
+        "img2":"/images/N--1.2.jpg",
+        "img3":"/images/N--1.3.jpg"
+    },
+   
+    {
+        "id":36,
+        "anime":"naruto",
+       "Image":"/images/N--3.1.jpg",
+        "Price":349,
+        "Mrp":499,
+        "Offer":"Naruto",
+        "Type":"Over Sized",
+        "img2":"/images/N--3.2.jpg",
+        "img3":"/images/N--3.3.jpg"
+    },
+   
+    {
+        "id":37,
+        "anime":"demonSlayer",
+       "Image":"/images/D--3.1.jpg",
+        "Price":349,
+        "Mrp":499,
+        "Offer":"Demon Slayer",
+        "Type":"Over Sized",
+        "img2":"/images/D--3.2.jpg",
+        "img3":"/images/D--3.3.jpg"
+    },
+    
+     
+    {
+        "id":38,
+        "anime":"onepiece",
+       "Image":"/images/one--3.1.jpg",
+        "Price":349,
+        "Mrp":499,
+        "Offer":"One Piece",
+        "Type":"Over Sized",
+        "img2":"/images/one--3.2.jpg",
+        "img3":"/images/one--3.3.jpg"
     },
     {
-        "id":28,
+        "id":39,
+        "anime":"onepiece",
+       "Image":"/images/One--4.1.jpg",
+        "Price":349,
+        "Mrp":499,
+        "Offer":"One Piece",
+        "Type":"Over Sized",
+        "img2":"/images/One--4.2.jpg",
+        "img3":"/images/One--4.3.jpg"
+    },
+    
+    {
+        "id":40,
+        "anime":"jujutsuKaisen",
+       "Image":"/images/JJ--1.1.jpg",
+        "Price":349,
+        "Mrp":499,
+        "Offer":"Jujutsu Kaisen",
+        "Type":"Over Sized",
+        "img2":"/images/JJ--1.2.jpg",
+        "img3":"/images/JJ--1.3.jpg"
+    },
+    
+    {
+        "id":41,
+        "anime":"jujutsuKaisen",
+       "Image":"/images/JJ--2.1.jpg",
+        "Price":349,
+        "Mrp":499,
+        "Offer":"Jujutsu Kaisen",
+        "Type":"Over Sized",
+        "img2":"/images/JJ--2.2.jpg",
+        "img3":"/images/JJ--2.3.jpg"
+    },
+     {
+        "id":42,
+        "anime":"thanjai",
+       "Image":"/images/o-2.jpg",
+        "Price":349,
+        "Mrp":499,
+        "Offer":"Thanjai Big Temple",
+        "Type":"Over Sized",
+        "img2":"/images/o-2.2.jpg",
+        "img3":"/images/o-2.1.jpg"
+    }
+    ,
+    {
+        "id":43,
         "anime":"car",
        "Image":"/images/car-3.1.jpg",
         "Price":349,
         "Mrp":499,
         "Offer":"Car",
         "Type":"Over Sized",
-        "img2":"/images/car-3.2.jpg",
-        "img3":"/images/car-3.jpg"
-    },
-     {
-        "id":29,
-        "anime":"naruto",
-       "Image":"/images/n-1.1.jpg",
-        "Price":349,
-        "Mrp":499,
-        "Offer":"Naruto",
-        "Type":"Over Sized",
-        "img2":"/images/n-1.2.jpg",
-        "img3":"/images/n-1.jpg"
-    },
-    {
-        "id":30,
-        "anime":"naruto",
-       "Image":"/images/n-2.1.jpg",
-        "Price":349,
-        "Mrp":499,
-        "Offer":"Naruto",
-        "Type":"Over Sized",
-        "img2":"/images/n-2.2.jpg",
-        "img3":"/images/n-2.jpg"
-    },
-    {
-        "id":31,
-        "anime":"naruto",
-       "Image":"/images/n-3.1.jpg",
-        "Price":349,
-        "Mrp":499,
-        "Offer":"Naruto",
-        "Type":"Over Sized",
-        "img2":"/images/n-3.2.jpg",
-        "img3":"/images/n-3.jpg"
-    },
-    {
-        "id":32,
-        "anime":"onepiece",
-       "Image":"/images/one-1.1.jpg",
-        "Price":349,
-        "Mrp":499,
-        "Offer":"One Piece",
-        "Type":"Over Sized",
-        "img2":"/images/one-1.2.jpg",
-        "img3":"/images/one-1.jpg"
-    }
-    , {
-        "id":33,
-        "anime":"demonSlayer",
-       "Image":"/images/d-1.jpg",
-        "Price":349,
-        "Mrp":499,
-        "Offer":"Demon Slayer",
-        "Type":"Acid wash Hoodie",
-        "img2":"/images/d-1.2.jpg",
-        "img3":"/images/d-1.1.jpg"
-    },
-    {
-        "id":34,
-        "anime":"demonSlayer",
-       "Image":"/images/d-2.1.jpg",
-        "Price":349,
-        "Mrp":499,
-        "Offer":"Demon Slayer",
-        "Type":"Over Sized",
-        "img2":"/images/d-2.2.jpg",
-        "img3":"/images/d-2.jpg"
-    },
-    {
-        "id":35,
-        "anime":"demonSlayer",
-       "Image":"/images/d-3.1.jpg",
-        "Price":349,
-        "Mrp":499,
-        "Offer":"Demon Slayer",
-        "Type":"Over Sized",
-        "img2":"/images/d-3.2.jpg",
-        "img3":"/images/d-3.jpg"
-    },
-     {
-        "id":37,
-        "anime":"onepiece",
-       "Image":"/images/one-2.1.jpg",
-        "Price":349,
-        "Mrp":499,
-        "Offer":"One Piece",
-        "Type":"Over Sized",
-        "img2":"/images/one-2.2.jpg",
-        "img3":"/images/one-2.jpg"
+        "img2":"/images/car-3.jpg",
+        "img3":"/images/car-3.2.jpg"
     }
     ,
-     {
-        "id":38,
-        "anime":"spiderman",
-       "Image":"/images/spi-1.1.jpg",
-        "Price":349,
-        "Mrp":499,
-        "Offer":"Spider Man",
-        "Type":"Over Sized",
-        "img2":"/images/spi-1.2.jpg",
-        "img3":"/images/spi-1.jpg"
-    },
-    {
-        "id":39,
-        "anime":"onepiece",
-       "Image":"/images/one-3.1.jpg",
-        "Price":349,
-        "Mrp":499,
-        "Offer":"One Piece",
-        "Type":"Over Sized",
-        "img2":"/images/one-3.2.jpg",
-        "img3":"/images/one-3.jpg"
-    },
-    {
-        "id":40,
-        "anime":"onepiece",
-       "Image":"/images/one-4.1.jpg",
-        "Price":349,
-        "Mrp":499,
-        "Offer":"One Piece",
-        "Type":"Over Sized",
-        "img2":"/images/one-4.2.jpg",
-        "img3":"/images/one-4.jpg"
-    },
-    {
-        "id":41,
-        "anime":"hunterXhunter",
-       "Image":"/images/hxh-1.1.jpg",
-        "Price":349,
-        "Mrp":499,
-        "Offer":"Hunter X Hunter",
-        "Type":"Over Sized",
-        "img2":"/images/hxh-1.2.jpg",
-        "img3":"/images/hxh-1.jpg"
-    },
        {
-        "id":42,
+        "id":44,
         "anime":"jujutsuKaisen",
        "Image":"/images/Ju-1.1.jpg",
         "Price":349,
@@ -188,31 +238,9 @@
         "img2":"/images/Ju-1.2.jpg",
         "img3":"/images/Ju-1.jpg"
     },
-       {
-        "id":43,
-        "anime":"jujutsuKaisen",
-       "Image":"/images/Ju-2.1.jpg",
-        "Price":349,
-        "Mrp":499,
-        "Offer":"Jujutsu Kaisen",
-        "Type":"Over Sized",
-        "img2":"/images/Ju-2.2.jpg",
-        "img3":"/images/Ju-2.jpg"
-    },
     {
-        "id":44,
-        "anime":"jujutsuKaisen",
-       "Image":"/images/Ju-3.1.jpg",
-        "Price":349,
-        "Mrp":499,
-        "Offer":"Jujutsu Kaisen",
-        "Type":"Over Sized",
-        "img2":"/images/Ju-3.2.jpg",
-        "img3":"/images/Ju-3.jpg"
-    },
-       {
         "id":45,
-        "anime":"linelog",
+        "anime":"lion",
        "Image":"/images/o-1.1.jpg",
         "Price":349,
         "Mrp":499,
@@ -221,37 +249,25 @@
         "img2":"/images/o-1.2.jpg",
         "img3":"/images/o-1.jpg"
     },
-       {
-        "id":46,
-        "anime":"thanjai",
-       "Image":"/images/o-2.1.jpg",
-        "Price":349,
-        "Mrp":499,
-        "Offer":"Thanjai Big Temple",
-        "Type":"Over Sized",
-        "img2":"/images/o-2.2.jpg",
-        "img3":"/images/o-2.jpg"
-    },
-       {
-        "id":47,
-        "anime":"thalapathyvijay",
+    {
+    "id":46,
+    "anime":"thalapathyvijay",
        "Image":"/images/o-3.1.jpg",
         "Price":349,
         "Mrp":499,
         "Offer":"Thalapathy Vijay",
         "Type":"Over Sized",
         "img2":"/images/o-3.2.jpg",
-        "img3":"/images/o-3.jpg"
-    },
-       {
-        "id":48,
-        "anime":"spiderman",
+        "img3":"/images/o-3.3.jpg"
+    },{
+        "id":47,
+        "anime":"car",
+       "Image":"/images/car-1.1.jpg",
         "Price":349,
         "Mrp":499,
-        "Offer":"Spider Man",
+        "Offer":"Car",
         "Type":"Over Sized",
-        "Image":"/images/spi-1.1.jpg",
-        "img2":"/images/spi-1.2.jpg",
-        "img3":"/images/spi-1.jpg"
+        "img2":"/images/car-1.2.jpg",
+        "img3":"/images/car-1.jpg"
     }
 ]
