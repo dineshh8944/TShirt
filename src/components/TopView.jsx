@@ -125,7 +125,7 @@ const TopView = () => {
                <Col lg={6} md={6} sm={6} xs={12}>
                <div className="right_1">
                            <ul>
-                               <li><h1>ONE PIECE EMBROIDERY <br /> SWEATSHIRT</h1></li>
+                               <li><h1>{products.Offer}</h1></li>
                                <li>
                                    <div className='RatingDiv'>
                                        <h3>Rating</h3>
