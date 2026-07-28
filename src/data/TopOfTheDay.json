@@ -161,13 +161,13 @@
     {
         "id":15,
         "anime":"onepiece",
-       "Image":"/images/one--3.1.jpg",
+       "Image":"/images/One--3.1.jpg",
         "Price":349,
         "Mrp":499,
         "Offer":"One Piece",
         "Type":"Over Sized",
-        "img2":"/images/one--3.2.jpg",
-        "img3":"/images/one--3.3.jpg"
+        "img2":"/images/One--3.2.jpg",
+        "img3":"/images/One--3.3.jpg"
     },
     {
         "id":16,
